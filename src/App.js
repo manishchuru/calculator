@@ -1,10 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Resturent from './Resturent';
+import Main from './Main';
 const App = () => {
   return (
     <div>
-      <Resturent/>      
+     <Main/> 
     </div>
   );
 }
